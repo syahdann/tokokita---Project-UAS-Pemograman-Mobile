@@ -1,6 +1,12 @@
 # tokokita
 
-A new Flutter project.
+Anggota Kelompok : 
+Siti Yasmin Nurcholifah - 312210057
+Sinta Hardianti Wijaya  - 312210342
+Muhammad Syahdan Junus  - 312210285
+Amanda Puspa Negara     - 312210129
+Abdul Aziz              - 312210022
+
 
 ## Getting Started
 
